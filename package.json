@@ -1,0 +1,23 @@
+{
+  "name": "capacitacion-git",
+  "version": "1.0.0",
+  "description": "Capacitación Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermoap/capacitacion-git.git"
+  },
+  "author": "Guillermo Aguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillermoap/capacitacion-git/issues"
+  },
+  "homepage": "https://github.com/guillermoap/capacitacion-git#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
